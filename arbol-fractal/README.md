@@ -1,6 +1,6 @@
 # arbol-fractal para Picomite HDMI/USB RP2350A
 
-![Screenshot](screenshot.png)
+![Screenshot](snap.jpg)
 
 Animación de un árbol fractal creciendo en pantalla.
 

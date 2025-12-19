@@ -1,6 +1,6 @@
 # Curvas de Rose para Picomite HDMI/USB RP2350A
 
-![Screenshot](screenshot.png)
+![Screenshot](snap.png)
 
 Este repositorio contiene dos experimentos/demos para la Picomite HDMI/USB RP2350A. Ambos muestran una animación en tiempo real de curvas de rose:
 
@@ -10,8 +10,11 @@ Este repositorio contiene dos experimentos/demos para la Picomite HDMI/USB RP235
 Gran parte de los cálculos se hicieron con asistencia de IA.
 
 ## Música
+
 El archivo `musica.mod` fue descargado de modarchive.org. Los créditos según los metadatos del archivo son:
+
 - xtd / mystic & the grid
 - 07.02.1996
 - trans-x-techno
 
+![Screenshot](snaps.png)

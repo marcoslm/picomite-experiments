@@ -7,14 +7,20 @@ Este repositorio recopila pequeños experimentos, pruebas y demos realizados en 
 Cada subcarpeta contiene un experimento o demo independiente, con su propio README y archivos de código. De momento, el repositorio incluye:
 
 ### 1. Árbol Fractal
+
+![Screenshot](arbol-fractal/snap.jpg)
+
 - **Ubicación:** `arbol-fractal/`
-	**Target:** Picomite HDMI/USB RP2350A
+    **Target:** Picomite HDMI/USB RP2350A
 - **Descripción:** Animación de un árbol fractal creciendo en pantalla. Incluye una versión en MMBasic puro y otra que utiliza una rutina en CSUB para mejorar el rendimiento.
 - Más detalles en el README de la carpeta.
 
 ### 2. Curvas de Rose
+
+![Screenshot](curvas_de_rose/snap.png)
+
 - **Ubicación:** `curvas_de_rose/`
-	**Target:** Picomite HDMI/USB RP2350A
+    **Target:** Picomite HDMI/USB RP2350A
 - **Descripción:** Animaciones en tiempo real de curvas de rose, con variantes que incluyen efectos de starfield y música de fondo.
 - Más detalles en el README de la carpeta.
 
