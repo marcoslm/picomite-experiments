@@ -13,7 +13,7 @@ const MAX_SEGS_MINUS = MAX_SEGS - 1
 CONST NUM_STARS = 100
 CONST FOV_INT = 160
 CONST SHOW_FPS = 0
-CONST MOD_FILE = "mod/1.mod"
+CONST MOD_FILE = "musica.mod"
 
 ' Arrays Graficos
 DIM INTEGER r_x1(MAX_SEGS), r_y1(MAX_SEGS)
