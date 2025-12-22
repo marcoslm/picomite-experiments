@@ -24,7 +24,7 @@ DIM FLOAT BaseAng(MAX_SEGS)
 ' Variables
 DIM INTEGER cx = MM.HRES \ 2
 DIM INTEGER cy = MM.VRES \ 2
-DIM float scale = 110
+DIM float scale = cy - 10
 'dim float scale_s = 0.25
 
 DIM FLOAT n = 2.0, d = 29.0

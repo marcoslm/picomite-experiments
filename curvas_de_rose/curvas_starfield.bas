@@ -33,7 +33,7 @@ DIM FLOAT InvZ(550)       ' Tabla inversa Z
 ' Variables
 DIM INTEGER cx = MM.HRES \ 2
 DIM INTEGER cy = MM.VRES \ 2
-DIM INTEGER scale = 110
+DIM INTEGER scale = cy - 10
 DIM FLOAT n = 2.0, d = 29.0
 DIM FLOAT n_step = 0.0005, d_step = 0.002
 DIM FLOAT k, r_geo, d_rad
